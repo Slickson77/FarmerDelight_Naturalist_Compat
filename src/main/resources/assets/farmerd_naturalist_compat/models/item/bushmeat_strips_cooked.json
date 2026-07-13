@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "farmerd_naturalist_compat:item/bushmeat_strips_cooked"
+  }
+}

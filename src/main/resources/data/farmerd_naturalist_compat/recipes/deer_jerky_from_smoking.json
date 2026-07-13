@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "farmerd_naturalist_compat:venison_strips"
+  },
+  "result": "farmerd_naturalist_compat:deer_jerky"
+}
