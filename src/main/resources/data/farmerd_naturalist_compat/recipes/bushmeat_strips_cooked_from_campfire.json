@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "farmerd_naturalist_compat:bushmeat_strips"
+  },
+  "result": "farmerd_naturalist_compat:bushmeat_strips_cooked"
+}

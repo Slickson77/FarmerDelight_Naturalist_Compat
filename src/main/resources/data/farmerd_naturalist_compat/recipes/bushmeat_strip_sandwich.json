@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:bread"
+    },
+    {
+      "item": "farmerd_naturalist_compat:bushmeat_strips_cooked"
+    },
+    {
+      "tag": "forge:salad_ingredients"
+    },
+    {
+      "item": "farmersdelight:tomato"
+    }
+  ],
+  "result": {
+    "item": "farmerd_naturalist_compat:bushmeat_strip_sandwich"
+  }
+}

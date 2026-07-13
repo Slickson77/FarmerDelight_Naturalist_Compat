@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "naturalist:venison"
+    }
+  ],
+  "result": [
+    {
+      "count": 2,
+      "item": "farmerd_naturalist_compat:venison_strips"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}
