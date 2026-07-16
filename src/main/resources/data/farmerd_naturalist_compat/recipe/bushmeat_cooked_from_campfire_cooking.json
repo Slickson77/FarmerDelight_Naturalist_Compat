@@ -4,7 +4,10 @@
   "cookingtime": 600,
   "experience": 0.35,
   "ingredient": {
-    "item": "farmerd_naturalist_compat:duck_cuts"
+    "item": "naturalist:bushmeat"
   },
-  "result": "farmerd_naturalist_compat:cooked_duck_cuts"
+  "result": {
+    "count": 1,
+    "id": "naturalist:cooked_bushmeat"
+  }
 }

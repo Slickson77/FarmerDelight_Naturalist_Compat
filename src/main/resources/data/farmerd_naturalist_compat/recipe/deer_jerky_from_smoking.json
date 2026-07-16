@@ -6,5 +6,8 @@
   "ingredient": {
     "item": "farmerd_naturalist_compat:venison_strips"
   },
-  "result": "farmerd_naturalist_compat:deer_jerky"
+  "result": {
+    "count": 1,
+    "id": "farmerd_naturalist_compat:deer_jerky"
+  }
 }

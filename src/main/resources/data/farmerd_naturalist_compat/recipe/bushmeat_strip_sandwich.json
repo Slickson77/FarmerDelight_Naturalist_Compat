@@ -3,19 +3,20 @@
   "category": "misc",
   "ingredients": [
     {
-      "tag": "forge:bread"
+      "tag": "c:foods/bread"
     },
     {
       "item": "farmerd_naturalist_compat:bushmeat_strips_cooked"
     },
     {
-      "tag": "forge:salad_ingredients"
+      "tag": "c:foods/leafy_green"
     },
     {
       "item": "farmersdelight:tomato"
     }
   ],
   "result": {
-    "item": "farmerd_naturalist_compat:bushmeat_strip_sandwich"
+    "count": 1,
+    "id": "farmerd_naturalist_compat:bushmeat_strip_sandwich"
   }
 }

@@ -6,5 +6,8 @@
   "ingredient": {
     "item": "naturalist:bushmeat"
   },
-  "result": "naturalist:cooked_bushmeat"
+  "result": {
+    "count": 1,
+    "id": "naturalist:cooked_bushmeat"
+  }
 }

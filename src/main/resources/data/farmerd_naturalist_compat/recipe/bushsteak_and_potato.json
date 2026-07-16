@@ -12,13 +12,14 @@
       "item": "minecraft:bowl"
     },
     {
-      "tag": "forge:crops/onion"
+      "tag": "c:crops/onion"
     },
     {
       "item": "farmersdelight:cooked_rice"
     }
   ],
   "result": {
-    "item": "farmerd_naturalist_compat:bushsteak_and_potatoes"
+    "count": 1,
+    "id": "farmerd_naturalist_compat:bushsteak_and_potatoes"
   }
 }

@@ -6,5 +6,8 @@
   "ingredient": {
     "item": "farmerd_naturalist_compat:duck_cuts"
   },
-  "result": "farmerd_naturalist_compat:cooked_duck_cuts"
+  "result": {
+    "count": 1,
+    "id": "farmerd_naturalist_compat:cooked_duck_cuts"
+  }
 }
