@@ -1,0 +1,12 @@
+{
+  "values": [
+    "naturalist:cooked_bushmeat",
+    "naturalist:cooked_venison",
+    "naturalist:cooked_duck",
+    "farmerd_naturalist_compat:cooked_duck_cuts",
+    "naturalist:bushmeat",
+    "naturalist:venison",
+    "naturalist:duck",
+    "farmerd_naturalist_compat:duck_cuts"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "values": [
+    "farmerd_naturalist_compat:duck_cuts",
+    "farmerd_naturalist_compat:cooked_duck_cuts",
+    "farmerd_naturalist_compat:bushmeat_strips",
+    "farmerd_naturalist_compat:bushmeat_strips_cooked",
+    "farmerd_naturalist_compat:biltong",
+    "farmerd_naturalist_compat:venison_strips",
+    "farmerd_naturalist_compat:deer_jerky",
+    "farmerd_naturalist_compat:bushmeat_strip_sandwich",
+    "farmerd_naturalist_compat:bushsteak_and_potatoes"
+  ],
+  "replace": false
+}
